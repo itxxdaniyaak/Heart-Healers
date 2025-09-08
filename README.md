@@ -114,6 +114,12 @@ export default function LandingPage() { return ( <div className="bg-gradient-to-
   </footer>
 </div>
 
-); }
+); }Heart-Healers/
+ ├─ pages/
+ │   └─ index.js
+ ├─ public/
+ │   └─ favicon.ico
+ ├─ package.json
+ └─ README.md
 
 
